@@ -1,8 +1,6 @@
-**_<h1 align="center">:vulcan_salute: Primer Hola Mundo Android :computer:</h1>_**
-**_<h2>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h2>_**
+**_<h1 align="center">:vulcan_salute: Primer Hola Mundo en Android :computer:</h1>_**
 
 Proyecto realizado según los siguientes requerimientos:
-
 
 1. Debes crear un nuevo proyecto __respetando la configuración base__, ya que será la usada para todos los proyectos del módulo 4.
     - __Type Project:__ Empty Views Activity
